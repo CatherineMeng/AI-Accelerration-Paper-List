@@ -14,6 +14,18 @@
 
 ### Model Compression in RL
 
+2020, PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning, [Link](https://ieeexplore.ieee.org/abstract/document/8962235)
+
+2019-2021, Quantized Reinforcement Learning (QUARL), [Link](https://arxiv.org/abs/1910.01055)
+
 ### Other Novel Model Compression Techniques
 
-## Monte-Carlo Tree Search Acceleration
+2021, ESCALATE: Boosting the Efficiency of Sparse CNN Accelerator with Kernel Decomposition, [Link](https://dl.acm.org/doi/abs/10.1145/3466752.3480043)
+
+## Monte-Carlo Tree Search
+
+### MCTS Acceleration (CPU/GPU)
+
+2011, Large-Scale Parallel Monte Carlo Tree Search on GPU, [Link] (https://ieeexplore.ieee.org/abstract/document/6009083)
+
+### MCTS Hardware Acceleration (FPGA, etc)
